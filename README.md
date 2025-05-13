@@ -53,51 +53,39 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 
 # 📊 GitHub Stats:
 
-  ![Stats](https://readmestats.999857.xyz/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;   ![Languages](https://readmestats.999857.xyz/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![Stats](https://readmestats.999857.xyz/api?username=huzaifa-nawaz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;   ![Languages](https://readmestats.999857.xyz/api/top-langs/?username=huzaifa-nawaz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <br/>
  <br />
 
- ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LarsKhan&theme=dracula&hide_border=false)  
+ ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-nawaz&theme=dracula&hide_border=false)  
 <br />
 <br />
-<!--[](https://github-contributor-stats.vercel.app/api?username=LarsKhan&limit=5&theme=radical&combine_all_yearly_contributions=true)
- <!--img src="https://github-readme-streak-stats.herokuapp.com/graph?username=LarsKhan&theme=dracula&hide_border=false"/>
+<!--[](https://github-contributor-stats.vercel.app/api?username=huzaifa-nawaz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+ <!--img src="https://github-readme-streak-stats.herokuapp.com/graph?username=huzaifa-nawaz&theme=dracula&hide_border=false"/>
  <br/ -->
 <!-- Contributions Graph-->
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LarsKhan&theme=react-dark&bg_color=20232a&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=huzaifa-nawaz&theme=react-dark&bg_color=20232a&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
 
 
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LarsKhan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=huzaifa-nawaz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LarsKhan&limit=5&theme=radical&combine_all_yearly_contributions=true)-->
+![](https://github-contributor-stats.vercel.app/api?username=huzaifa-nawaz&limit=5&theme=radical&combine_all_yearly_contributions=true)-->
 
 ---
-<!--[![](https://visitcount.itsvg.in/api?id=LarsKhan&icon=0&color=11)](https://visitcount.itsvg.in)-->
+<!--[![](https://visitcount.itsvg.in/api?id=huzaifa-nawaz&icon=0&color=11)](https://visitcount.itsvg.in)-->
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-![Visitor Count](https://profile-counter.glitch.me/LarsKhan/count.svg)
-
-
-## 🗂️ Highlight Projects
-
-
-<a href="https://github.com/LarsKhan/Dengue-Tracer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsKhan&repo=Dengue-Tracer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dengue-Tracer" />
-</a>
-
-<a href="https://github.com/LarsKhan/Dengue-Tracer-Api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsKhan&repo=Dengue-Tracer-Api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dengue-Tracer-Api" />
-</a>
+![Visitor Count](https://profile-counter.glitch.me/huzaifa-nawaz/count.svg)
 
 
 <div align="center">
